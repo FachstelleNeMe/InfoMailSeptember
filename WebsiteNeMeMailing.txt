@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infopost NeMe – Herbst 2025</title>
+<style>
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f4f4f4; }
+.container { max-width: 900px; margin: auto; padding: 30px; background: #fff; }
+h1, h2, h3 { color: #1a1a1a; }
+h1 { font-size: 28px; margin-bottom: 20px; }
+h2 { font-size: 24px; margin-top: 30px; margin-bottom: 15px; }
+h3 { font-size: 18px; margin-top: 20px; margin-bottom: 10px; }
+p { margin: 10px 0; }
+ul { margin: 10px 0 10px 20px; }
+a { color: #0078d4; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.highlight { background-color: #fff3cd; padding: 15px; border-left: 5px solid #ffc107; margin: 20px 0; }
+.footer { font-size: 14px; color: #555; margin-top: 40px; border-top: 1px solid #e0e0e0; padding-top: 15px; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Infopost aus der Berliner Fachstelle „Neue Medien in der Jugendsozialarbeit“</h1>
+<p>Liebe Kolleg*innen,</p>
+<p>Ein durchwachsener Sommer geht zu Ende – und es gibt viel Neues aus der Arbeit mit digitalen & hybriden Lebenswelten Jugendlicher!</p>
+<div class="highlight">
++++ Um zu sehen, ob Euch dieses Format interessiert, haben wir „Lesebestätigung anfordern“ im Mailprogramm aktiviert. +++
+</div>
+
+<h2>Inhalt</h2>
+<ul>
+<li>Praxiswissen</li>
+<li>„NeMe“ – Lunch Talks und Workshop im Herbst 2025</li>
+<li>AKU-digital-Labor</li>
+<li>Veranstaltungsempfehlungen Herbst 2025</li>
+</ul>
+
+<h2>1. PRAXISWISSEN</h2>
+<p>...</p>
+
+<h2>2. „NeMe“-Lunch Talks & Workshop</h2>
+<p>...</p>
+
+<h2>3. AKU-digital-Labor</h2>
+<p>...</p>
+
+<h2>4. Veranstaltungen Herbst 2025</h2>
+<p>...</p>
+
+<p>Mit herzlichen Grüßen<br>Noah & Laura</p>
+
+<div class="footer">
+Projekt gefördert durch die Landeskommission Berlin gegen Gewalt und Senatsverwaltung für Bildung, Jugend und Familie.
+</div>
+</div>
+</body>
+</html>
